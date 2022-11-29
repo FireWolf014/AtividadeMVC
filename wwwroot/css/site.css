@@ -15,4 +15,15 @@ html {
 
 body {
   margin-bottom: 60px;
+  color: #fff;
+  background-image: linear-gradient(to bottom right, purple, gray);
+}
+
+.container{
+  background-color: rgb(20, 173, 233);
+  
+}
+
+.video{
+  align-items: center;
 }
